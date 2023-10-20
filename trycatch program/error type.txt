@@ -1,0 +1,22 @@
+/*in the java three type of error
+    1] syntax error
+    2] logical error
+    3] Runtime error
+
+    1 syntax error :-
+            in the error write wrong syntax any kayword,method,etc....
+            when not compile program then in program error 
+            is syntax error
+
+            int a
+            abow is syntax error because no semicolen ;
+
+    2 logical error :-
+            in the logical error is logic problem in program
+            it error create by programmer bield procces
+
+    3 Runtime error :-
+            in the error is create by user 
+            because user input is wrong its handle 
+            exception try - catch
+*/
